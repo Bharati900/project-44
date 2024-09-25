@@ -1,4 +1,5 @@
 # StudyGroupPlatform Smart Contract
+![WhatsApp Image 2024-09-25 at 14 06 12_9f1f4d0c](https://github.com/user-attachments/assets/37c502ef-f125-43ae-a664-012b9ffcca33)
 
 ## Vision
 
